@@ -1,0 +1,12 @@
+{
+name:Test; description:A theme made by Vodka; authors:[
+	{
+		name:Vodka Martini; id:1068030255455015013;
+	}
+],
+"background": {
+    "blur": 0.5,
+    "url": "https://media.discordapp.net/attachments/1098721925624250495/1098734524235526285/desktop-wallpaper-topographic-outline.jpg"
+    "alpha": 0.7
+    }
+}
