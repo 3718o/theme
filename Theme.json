@@ -1,16 +1,16 @@
 {
-	name:Topographic Discord;
-	description: A topographic version of Dark Mode;
-	authors: [ 
-	{
-			name: Err0r;
-		  id: 794578523598618634;
-	}
-],
-spec: 2;
-"background": {
-    "blur": 0.1,
-    "url": "https://media.discordapp.net/attachments/1113623636939640832/1114686240550301778/Screenshot_20230601_070102.jpg?width=211&height=468",
-    "alpha": 1.0
-    },
+   "name":"Topographic Discord",
+   "description":"A topographic version of Dark Mode",
+   "authors":[
+      {
+         "name":"Err0r",
+         "id":"794578523598618634"
+      }
+   ],
+   "spec":2,
+   "background":{
+      "blur":0.1,
+      "url":"https://media.discordapp.net/attachments/1113623636939640832/1114686240550301778/Screenshot_20230601_070102.jpg?width=211&height=468",
+      "alpha":1.0
+   }
 }
